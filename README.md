@@ -202,8 +202,7 @@ Como a aplicação foi construída com JavaScript Vanilla modular (ES6 Modules),
 Desenvolvido por **Cauã Lopes** durante a **Imersão Engenharia de Software: Dev na Era da IA** (Alura & Google).
 
 - **GitHub:** [@Caualopesrlp](https://github.com/Caualopesrlp)
-- **Email:** [caualopes.icm@gmail.com](mailto:caualopes.icm@gmail.com)
-- **LinkedIn:** [Cauã Lopes](https://www.linkedin.com/in/caualopes/)
+- **LinkedIn:** [Cauã Lopes](https://www.linkedin.com/in/caualopesrlp/)
 
 ---
 
